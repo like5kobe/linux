@@ -1,7 +1,7 @@
 
 ### 安装Chrome
 
- 1. 首先进入根目录，然后进入etc/yum.repos.d目录下，创建google-chrome.repo文件
+ 1. 首先进入到根目录，然后进入etc/yum.repos.d目录下，创建google-chrome.repo文件
 
     cd /
     cd etc/yum.repos.d
